@@ -1,4 +1,4 @@
-# # Random walk 
+# Random walk 
 The random walk makes a three ball to bounce between a fixed location in different velocity
 There are three different color balls and the ball is created in CSS and HTML.
 It is made to bounce using JavaScript programming 
